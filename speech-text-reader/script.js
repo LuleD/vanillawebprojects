@@ -16,7 +16,7 @@ const data = [
   },
   {
     image: './img/tired.jpg',
-    text: "I'm Tired"
+    text: "I'm Sleeping"
   },
   {
     image: './img/hurt.jpg',
@@ -27,7 +27,7 @@ const data = [
     text: "I'm Happy"
   },
   {
-    image: './img/angry.jpg',
+    image: './img/angry1.webp',
     text: "I'm Angry"
   },
   {
